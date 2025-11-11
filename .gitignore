@@ -26,6 +26,7 @@ logs/
 
 # Node Dependencies
 /node_modules
+node_modules
 
 # Vite Build Output
 /dist
