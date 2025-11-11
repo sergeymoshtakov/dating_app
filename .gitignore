@@ -1,1 +1,25 @@
+# Build Artifacts
+target/
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# IDE/System Files
+.idea/
+*.iml
+*.iws
+*.ipr
 .vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+*.err
+*.out
+
+# Configuration Files
+.env
+.env.*
