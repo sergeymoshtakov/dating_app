@@ -23,3 +23,16 @@ logs/
 # Configuration Files
 .env
 .env.*
+
+# Node Dependencies
+/node_modules
+
+# Vite Build Output
+/dist
+/out
+/build
+/temp
+
+# Package Manager Logs
+npm-debug.log*
+yarn-debug.log*
